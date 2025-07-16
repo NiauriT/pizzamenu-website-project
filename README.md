@@ -20,7 +20,7 @@ A modern, dynamic pizza menu built with React. This project displays a list of d
 
 ## 🔗 Live Demo
 
-👉 [Try the App Live](https://pizzamenu-website-project.vercel.app/)
+👉 [Try the App Live](https://pizza-menu-project-ivory.vercel.app/)
 
 ---
 
